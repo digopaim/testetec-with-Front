@@ -1,0 +1,15 @@
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.deps.json
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Domain.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Infra.Data.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Domain.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Infra.Data.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\TesteTec.Infra.CrossCutting.IoC.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Aplication.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\TesteTec.Aplication.pdb

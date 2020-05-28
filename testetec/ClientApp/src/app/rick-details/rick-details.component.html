@@ -1,0 +1,21 @@
+
+ <button (click)="gotoHistory()" class=" btn btn-outline-brand btn-elevate btn-lg ">
+    Historico
+</button>
+<button (click)="AddNavigation()" class=" btn btn-outline-brand btn-elevate btn-lg ">
+    Navegacao
+</button>
+<mat-card class="example-card">
+    <mat-card-header>
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title>Id: {{rick.id}}</mat-card-title>
+      <mat-card-subtitle>Dimensao: {{rick.dimensao.nomeDimensao}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src="../../assets/rick.png">
+    <mat-card-content>
+      <p>
+        Este rick tem o Id {{rick.id}} , e a  dimensao origem dele é a {{rick.dimensao.nomeDimensao}}
+      </p>
+    </mat-card-content>
+</mat-card>
+

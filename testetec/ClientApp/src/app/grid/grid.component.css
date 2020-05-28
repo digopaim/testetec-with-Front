@@ -1,0 +1,16 @@
+
+.card {
+   
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    background-color: gray;
+    color: #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .img-card {
+    width: 160px;
+    border-radius: 50%;
+    height: 160px;
+  }

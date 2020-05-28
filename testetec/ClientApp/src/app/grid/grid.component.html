@@ -1,0 +1,14 @@
+<owl-carousel-o [options]="customOptions">
+  <ng-template carouselSlide *ngFor="let item of ricksList | async" [id]="item.id">
+      <div class="pad15 card" (click)="GoToRick(item)">
+         
+          <div>
+              <div  class=" div_icon align-self-center">
+                  <i class="flaticon2-user icon"></i>
+              </div>
+              <p>Rick da Dimensao {{item.dimensao.nomeDimensao}}</p>
+              <p>Morty Id{{item.morty.id}}</p>
+          </div>
+      </div>
+  </ng-template>
+</owl-carousel-o>

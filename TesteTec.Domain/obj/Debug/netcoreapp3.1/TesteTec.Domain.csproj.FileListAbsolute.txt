@@ -1,0 +1,7 @@
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\obj\Debug\netcoreapp3.1\TesteTec.Domain.AssemblyInfoInputs.cache
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\obj\Debug\netcoreapp3.1\TesteTec.Domain.AssemblyInfo.cs
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\bin\Debug\netcoreapp3.1\TesteTec.Domain.deps.json
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\bin\Debug\netcoreapp3.1\TesteTec.Domain.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\bin\Debug\netcoreapp3.1\TesteTec.Domain.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\obj\Debug\netcoreapp3.1\TesteTec.Domain.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Domain\obj\Debug\netcoreapp3.1\TesteTec.Domain.pdb

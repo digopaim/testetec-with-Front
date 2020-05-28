@@ -1,0 +1,11 @@
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.csprojAssemblyReference.cache
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.AssemblyInfoInputs.cache
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.AssemblyInfo.cs
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\bin\Debug\netcoreapp3.1\TesteTec.Aplication.deps.json
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\bin\Debug\netcoreapp3.1\TesteTec.Aplication.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\bin\Debug\netcoreapp3.1\TesteTec.Aplication.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\bin\Debug\netcoreapp3.1\TesteTec.Domain.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\bin\Debug\netcoreapp3.1\TesteTec.Domain.pdb
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.csproj.CopyComplete
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.dll
+C:\Users\paimr\source\repos\testetec\TesteTec.Aplication\obj\Debug\netcoreapp3.1\TesteTec.Aplication.pdb

@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.CrossCutting.IoC\\TesteTec.Infra.CrossCutting.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\TesteTec.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\TesteTec.Aplication.csproj",
+        "projectName": "TesteTec.Aplication",
+        "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\TesteTec.Aplication.csproj",
+        "packagesPath": "C:\\Users\\paimr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paimr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj": {
+                "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj",
+        "projectName": "TesteTec.Domain",
+        "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj",
+        "packagesPath": "C:\\Users\\paimr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paimr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.CrossCutting.IoC\\TesteTec.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.CrossCutting.IoC\\TesteTec.Infra.CrossCutting.IoC.csproj",
+        "projectName": "TesteTec.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.CrossCutting.IoC\\TesteTec.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\paimr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paimr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\TesteTec.Aplication.csproj": {
+                "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Aplication\\TesteTec.Aplication.csproj"
+              },
+              "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj": {
+                "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj"
+              },
+              "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\TesteTec.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\TesteTec.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\TesteTec.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\TesteTec.Infra.Data.csproj",
+        "projectName": "TesteTec.Infra.Data",
+        "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\TesteTec.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\paimr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paimr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj": {
+                "projectPath": "C:\\Users\\paimr\\source\\repos\\testetec\\TesteTec.Domain\\TesteTec.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
